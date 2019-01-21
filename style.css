@@ -1,0 +1,60 @@
+img {
+  width: 50px;
+}
+#face {
+  width: 400px;
+}
+#eyes1 {
+width: 200px;
+position: absolute;
+top: 200px;
+left: 100px;
+}
+#eyebrows {
+width: 184px;
+position: absolute;
+top: 120px;
+left: 110px;
+}
+#mouth1 {
+    width: 150px;
+    position: absolute;
+    top: 350px;
+    left: 120px;
+}
+#nose3 {
+    width: 80px;
+    position: absolute;
+    top: 220px;
+    left: 160px;
+}
+#moustache {
+    width: 200px;
+    position: absolute;
+    top: 270px;
+    left: 90px;
+}
+#moustache {
+    width: 200px;
+    position: absolute;
+    top: 270px;
+    left: 90px;
+}
+#ears2{
+    width: 400px;
+    position: absolute;
+    top: 200px;
+    left:4px;
+}
+#hair3{
+    width: 300px;
+    position: absolute;
+    top: 20px;
+    left:52px;
+}
+#bowtie{
+    width: 200px;
+    position: absolute;
+    top: 375px;
+    left: 100px;
+}
